@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 💻 I'm a Software Developer at [SSW](https://www.ssw.com.au/) Sydney
+- 💻 I'm a Software Engineer at [SSW](https://www.ssw.com.au/) Sydney
 <br>https://www.ssw.com.au/people/charles-vionnet
 - 👀 I enjoy working with .Net
-- 🌱 I'm in the process of learning Angular
 - 🎮 I spend spare time coding games or 🎸 playing music
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=cvionnet&count_private=true&theme=tokyonight&showicons=true)]()
