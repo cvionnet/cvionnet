@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 💻 I'm a Software Engineer at [SSW](https://www.ssw.com.au/) Sydney
-<br>https://www.ssw.com.au/people/charles-vionnet
+- 💻 I'm a Software Engineer
 - 👀 I enjoy working with .Net
 - 🎮 I spend spare time coding games or 🎸 playing music
 
